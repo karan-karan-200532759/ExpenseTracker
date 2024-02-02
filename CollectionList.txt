@@ -1,0 +1,9 @@
+Database Collections:
+  For the Expense Tracker the following non-relational database collections are envisioned:
+
+a. Users: To store user authentication information.
+b. Expenses: To store details of each expense, including amount, category, date, and any additional notes.
+c. Categories: To store predefined expense categories for users to choose from.
+d. Budgets: To store user-defined budget goals for different expense categories.
+
+These collections are designed to manage user profiles, expense details, expense categories and budget details seamlessly.
