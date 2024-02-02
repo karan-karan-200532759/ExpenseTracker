@@ -1,0 +1,12 @@
+1.	App Idea: Expense Tracker
+2.	Purpose of Application: Keeping track of personal money may be difficult in our hectic life. My suggestion is to create an Android Expense Tracker app in order to streamline this procedure and encourage financial stability. With the help of this software, users will be able to effortlessly track and organize their expenditure, giving them a thorough picture of their spending patterns. To safely save user data and sync it across devices, the app will establish a connection with a Firebase database. Users may easily navigate through a variety of tasks, including entering spending, reading in-depth reports, and establishing budget objectives, thanks to an easy design. By enabling users to make knowledgeable financial decisions, this expense tracker hopes to improve their financial habits and, in turn, their general well-being.
+3.	List of Concepts to be Used: 
+•	Firebase Integration – How to connect android application to database.
+•	User Interface Design – Designing a user-friendly and visually appealing interface.
+•	Data Modeling - Design an efficient data model to represent and organize expense-related information within the Firebase database.
+•	Authentication - Implement user authentication to ensure secure access to personal financial data.
+•	Data Binding - Explore data binding concepts to efficiently connect UI components with data sources.
+•	Charting and Reporting - Learn how to visualize expense data using charts and generate meaningful reports for users.
+•	Notifications - Implement features like reminders or alerts to help users stay on top of their budget goals.
+•	Data Sync - Understand how to synchronize data across multiple devices to provide a seamless experience for users with different devices.
+•	Testing and Debugging - Gain proficiency in testing and debugging Android applications to ensure a robust and reliable product.
