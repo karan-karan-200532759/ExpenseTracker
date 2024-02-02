@@ -13,3 +13,16 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+/.idea/
+/.build/
+
+# Build and output files
+build/
+app/build/
+
+# External native build
+cmake/
+
+# Proguard files
+proguard-rules.pro
